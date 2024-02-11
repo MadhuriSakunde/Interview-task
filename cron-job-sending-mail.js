@@ -1,4 +1,3 @@
-const { log } = require('console');
 var cron = require('node-cron');
 var nodemailer = require('nodemailer'); // install nodemailer to send emails.
 
